@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# Browser profiles (contains sensitive credentials, sessions, cookies)
+browser_profile/
+
+# Temporary / Scratch data
+scratch/
+*.log
+
+# Sensitive Station Inputs & Bank Statements
+input_files/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+.vscode/
+.idea/
